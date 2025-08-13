@@ -1,0 +1,2 @@
+- [Privacy Policy in English](https://blacklabproject/RenkinJukugo.github.io/privacy-policy/en-US/)
+- [プライバシーポリシー（日本語）](https://blacklabproject/RenkinJukugo.github.io/privacy-policy/ja/)
